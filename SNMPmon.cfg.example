@@ -1,0 +1,41 @@
+[Example]
+miboject	= 1.2.3.4.5.6789
+
+[Communities]
+default 	= asdf1234
+junipersa	= asdf1234
+f5			= asdf1234
+juniper_srx	= asdf1234
+juniper_ex	= asdf1234
+
+[Juniper_SRX]
+boxdescr	= .1.3.6.1.4.1.2636.3.1.2
+boxserialno	= .1.3.6.1.4.1.2636.3.1.3
+ledtable	= .1.3.6.1.4.1.2636.3.1.10.1
+kernelmem	= .1.3.6.1.4.1.2636.3.1.16
+currentsess	= .1.3.6.1.4.1.2636.3.39.1.12.1.1.1.6
+maxsess		= .1.3.6.1.4.1.2636.3.39.1.12.1.1.1.7
+optemp		= .1.3.6.1.4.1.2636.3.1.13.1.7.9
+cpu		= .1.3.6.1.4.1.2636.3.1.13.1.8.9
+wan_in		= .1.3.6.1.2.1.2.2.1.10.509		
+wan_out		= .1.3.6.1.2.1.2.2.1.16.509		
+
+[Juniper_EX]
+boxdescr	= .1.3.6.1.4.1.2636.3.1.2
+optemp		= .1.3.6.1.4.1.2636.3.1.13.1.7
+
+[Cisco]
+
+[F5]
+
+[Juniper SA]
+nodename		= .1.3.6.1.4.1.12532.41
+raiddesc		= .1.3.6.1.4.1.12532.34
+logfullpercent 	= .1.3.6.1.4.1.12532.1
+signedinwebusers= .1.3.6.1.4.1.12532.2
+ivecpuutil		= .1.3.6.1.4.1.12532.10
+ivememutil		= .1.3.6.1.4.1.12532.11
+ivetothits		= .1.3.6.1.4.1.12532.14
+ivevpntunnels		= .1.3.6.1.4.1.12532.43
+ivewebhits		= .1.3.6.1.4.1.12532.16
+ivefilehits		= .1.3.6.1.4.1.12532.15
