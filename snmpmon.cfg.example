@@ -1,10 +1,10 @@
 [Example]
-miboject	= 1.2.3.4.5.6789
+miboject	  = 1.2.3.4.5.6789
 
 [Communities]
-default 	= asdf1234
-junipersa	= asdf1234
-f5			= asdf1234
+default 	  = asdf1234
+junipersa	  = asdf1234
+f5			    = asdf1234
 juniper_srx	= asdf1234
 juniper_ex	= asdf1234
 
