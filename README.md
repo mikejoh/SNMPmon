@@ -9,5 +9,5 @@ Another SNMP tool written in Python, primarily used in Nagios/OP5 plugin scripti
 ### Examples
 
 ```
-$> snmpmon.py 
+$> snmpmon.py -H <IP/hostname> -d Juniper_SRX -c currentsess
 ```
