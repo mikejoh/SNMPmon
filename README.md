@@ -6,7 +6,7 @@ Another SNMP tool written in Python, primarily used in Nagios/OP5 plugin scripti
  2. Add your SNMP communities to the file.
  3. Based on the network device you want to monitor using SNMP it will fetch the correct community.
 
-### Examples
+### Example
 
 ```
 $> snmpmon.py -H <IP/hostname> -d Juniper_SRX -c currentsess
